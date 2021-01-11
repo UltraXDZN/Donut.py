@@ -1,0 +1,3 @@
+# Donut.py
+Recreated the project called "Donut.c" in python -> "Donut.py"... 
+Works on the same way as "Donut.c", the only difference is that the code supports Windows, Linux and Mac OS.
